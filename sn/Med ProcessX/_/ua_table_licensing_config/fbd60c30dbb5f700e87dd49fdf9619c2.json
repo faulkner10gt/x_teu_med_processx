@@ -1,0 +1,23 @@
+{
+  "is_fulfillment": false,
+  "license_condition": null,
+  "license_model": "none",
+  "license_roles": null,
+  "name": "x_teu_med_processx_medical_supplies",
+  "op_delete": true,
+  "op_insert": true,
+  "op_update": true,
+  "owner_condition": null,
+  "sys_class_name": "ua_table_licensing_config",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-05-30 23:02:39",
+  "sys_id": "fbd60c30dbb5f700e87dd49fdf9619c2",
+  "sys_mod_count": 0,
+  "sys_name": "x_teu_med_processx_medical_supplies",
+  "sys_package": "a0764030dbb5f700e87dd49fdf961924",
+  "sys_policy": null,
+  "sys_scope": "a0764030dbb5f700e87dd49fdf961924",
+  "sys_update_name": "ua_table_licensing_config_fbd60c30dbb5f700e87dd49fdf9619c2",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-05-30 23:02:39"
+}

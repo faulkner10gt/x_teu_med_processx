@@ -1,0 +1,21 @@
+{
+  "caption": null,
+  "header": false,
+  "name": "x_teu_med_processx_medical_supplies",
+  "roles": null,
+  "sys_class_name": "sys_ui_section",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-05-30 23:05:42",
+  "sys_id": "60974470dbb5f700e87dd49fdf961945",
+  "sys_mod_count": 0,
+  "sys_name": "x_teu_med_processx_medical_supplies",
+  "sys_package": "a0764030dbb5f700e87dd49fdf961924",
+  "sys_policy": null,
+  "sys_scope": "a0764030dbb5f700e87dd49fdf961924",
+  "sys_update_name": "sys_ui_section_60974470dbb5f700e87dd49fdf961945",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-05-30 23:05:42",
+  "title": true,
+  "view": "Default view",
+  "view_name": null
+}

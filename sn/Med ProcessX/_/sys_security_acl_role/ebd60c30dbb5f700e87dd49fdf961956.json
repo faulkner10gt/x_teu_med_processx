@@ -1,0 +1,15 @@
+{
+  "sys_class_name": "sys_security_acl_role",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-05-30 23:02:38",
+  "sys_id": "ebd60c30dbb5f700e87dd49fdf961956",
+  "sys_mod_count": 0,
+  "sys_name": "x_teu_med_processx_medical_supplies.x_teu_med_processx.medical_supplies_user",
+  "sys_package": "a0764030dbb5f700e87dd49fdf961924",
+  "sys_policy": null,
+  "sys_scope": "a0764030dbb5f700e87dd49fdf961924",
+  "sys_update_name": "sys_security_acl_role_ebd60c30dbb5f700e87dd49fdf961956",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-05-30 23:02:38",
+  "transaction_id": null
+}
