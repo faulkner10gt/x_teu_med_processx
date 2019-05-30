@@ -1,0 +1,23 @@
+{
+  "element": "med_group",
+  "help": null,
+  "hint": null,
+  "label": "Med Group",
+  "language": "en",
+  "name": "x_teu_med_processx_medical_supplies",
+  "plural": "Med Groups",
+  "sys_class_name": "sys_documentation",
+  "sys_created_by": "admin",
+  "sys_created_on": "2019-05-30 23:04:10",
+  "sys_id": "0237c070dbb5f700e87dd49fdf96191d",
+  "sys_mod_count": 0,
+  "sys_name": "Med Group",
+  "sys_package": "a0764030dbb5f700e87dd49fdf961924",
+  "sys_policy": null,
+  "sys_scope": "a0764030dbb5f700e87dd49fdf961924",
+  "sys_update_name": "sys_documentation_x_teu_med_processx_medical_supplies_med_group_en",
+  "sys_updated_by": "admin",
+  "sys_updated_on": "2019-05-30 23:04:10",
+  "url": null,
+  "url_target": null
+}
